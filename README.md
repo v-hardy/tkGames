@@ -20,5 +20,5 @@ Este es un sencillo juego de adivinanzas hecho con Python y una interfaz gráfic
 2. Clona este repositorio o descarga los archivos:
 
    ```bash
-   git clone git@github.com:informatorio-com/7-G7-PTkinter.git
-   cd 7-G7-PTkinter
+   git clone git@github.com:v-hardy/tkGames.git
+   cd tkGames
